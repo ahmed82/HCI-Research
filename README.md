@@ -1,4 +1,4 @@
-# HCI-Researchs
+# HCI-Research
 Research in Human Computer Interaction includes the development and assessment of new technologies and innovations in how people and technology interact and collaborate.
 <h1 align="center">
  HCI Research 
