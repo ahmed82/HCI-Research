@@ -12,3 +12,14 @@ For this assignment, read the following research paper, and submit a summary acc
 
 ------
 # Paper Summary:
+Ahmed Al Salih ITIS 8400
+Building for ‘We’: Safety Settings for Couples with Memory Concerns
+1. Main Issue: What is the main issue or problem being addressed?  Why should people care?
+
+2. Approach: What method or approach does the paper propose as a way to help address the main issue or problem?
+
+3. Related Work / Context: Does the paper build on previously reported research, and is that clearly identified? 
+
+4. Evaluation / Analysis: Does the paper conduct a study or experiment to test whether the proposed method or approach? 
+
+5. Lessons Learned: Based on the approach / study / experiment, what are the main lessons learned, takeaways, or outcomes from the paper?
